@@ -1,0 +1,7 @@
+name/rarity/attunement/requ/source/page/price
+
+Aegis of the Abyss Legendary Armor
+Amulet of the Frog Uncommon Wondrous Item (Jewelry)
+Band of the Firm Grip Rare Wondrous Item (Jewelry)
+Black-out Candle Uncommon Wondrous Item
+Blade of the Empire Uncommon
